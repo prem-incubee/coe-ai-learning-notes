@@ -1,2 +1,3 @@
 # coe-ai-learning-notes
-repository to document my AI learning 
+
+repository to document my AI learning
