@@ -9,10 +9,12 @@ part1-basics/
   week1/
     day1/ - LLM Fundamentals & Prompt Engineering
     day2/ - AI Ethics, Security & Responsible Use
+    day3/ - AI Coding Assistants (GitHub Copilot & Cursor)
     ...
 ```
 
 Each day includes:
+
 - **Lessons** (3 min reads) - Core concepts
 - **Exercises** - Hands-on practice
 - **Resources** - Links and references
@@ -27,4 +29,4 @@ Each day includes:
 
 ---
 
-**Learning progress**: Week 1, Day 2 ✅
+**Learning progress**: Week 1, Day 3 ✅
